@@ -1,0 +1,7 @@
+com\guoxianbin\dao\CategoryDao.class
+com\guoxianbin\service\impl\SpecServiceImpl.class
+com\guoxianbin\service\impl\CategoryServiceImpl.class
+com\guoxianbin\dao\SpecDao.class
+com\guoxianbin\dao\BrandDao.class
+com\guoxianbin\GoodsStarter.class
+com\guoxianbin\service\impl\BrandServiceImpl.class
