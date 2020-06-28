@@ -15,7 +15,7 @@
 	<!-- <context:property-placeholder location="classpath:hgshop.properties" /> -->
 	
 	<!-- 应用程序 -->
-	<dubbo:application name="hgshop-goods-service" >
+	<dubbo:application name="gxbshop-goods-service" >
 		<!-- 解决22222端口  22222端口为了防止网络扰动 -->
 		<dubbo:parameter key="qos.enable" value="false"/>
 	</dubbo:application>

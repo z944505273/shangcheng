@@ -1,0 +1,7 @@
+com\guoxianbin\service\CategoryService.class
+com\guoxianbin\entity\Brand.class
+com\guoxianbin\entity\Spec.class
+com\guoxianbin\service\SpecService.class
+com\guoxianbin\entity\Category.class
+com\guoxianbin\service\BrandService.class
+com\guoxianbin\entity\SpecOption.class
