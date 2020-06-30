@@ -6,6 +6,7 @@ import com.guoxianbin.entity.Category;
 
 
 
+
 public interface CategoryDao {
 
 	int add(Category category);

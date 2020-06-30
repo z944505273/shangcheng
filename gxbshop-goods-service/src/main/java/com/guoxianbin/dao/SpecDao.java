@@ -6,7 +6,6 @@ import com.guoxianbin.entity.Spec;
 import com.guoxianbin.entity.SpecOption;
 
 
-
 public interface SpecDao {
 
 	int addSpec(Spec spec);
@@ -22,5 +21,7 @@ public interface SpecDao {
 	List<Spec> list(Spec spec);
 
 	Spec findById(int id);
+
+	List<Spec> listAll();
 
 }

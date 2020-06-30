@@ -1,7 +1,14 @@
-D:\javakecheng\1801D\gxbshop-master\gxbshop-goods-interface\src\main\java\com\guoxianbin\service\BrandService.java
+D:\javakecheng\1801D\gxbshop-master\gxbshop-goods-interface\src\main\java\com\guoxianbin\entity\Sku.java
+D:\javakecheng\1801D\gxbshop-master\gxbshop-goods-interface\src\main\java\com\guoxianbin\service\SkuService.java
 D:\javakecheng\1801D\gxbshop-master\gxbshop-goods-interface\src\main\java\com\guoxianbin\entity\SpecOption.java
-D:\javakecheng\1801D\gxbshop-master\gxbshop-goods-interface\src\main\java\com\guoxianbin\entity\Brand.java
-D:\javakecheng\1801D\gxbshop-master\gxbshop-goods-interface\src\main\java\com\guoxianbin\service\CategoryService.java
+D:\javakecheng\1801D\gxbshop-master\gxbshop-goods-interface\src\main\java\com\guoxianbin\entity\Spu.java
+D:\javakecheng\1801D\gxbshop-master\gxbshop-goods-interface\src\main\java\com\guoxianbin\entity\SpuVo.java
 D:\javakecheng\1801D\gxbshop-master\gxbshop-goods-interface\src\main\java\com\guoxianbin\entity\Category.java
 D:\javakecheng\1801D\gxbshop-master\gxbshop-goods-interface\src\main\java\com\guoxianbin\service\SpecService.java
+D:\javakecheng\1801D\gxbshop-master\gxbshop-goods-interface\src\main\java\com\guoxianbin\utils\HgLog.java
+D:\javakecheng\1801D\gxbshop-master\gxbshop-goods-interface\src\main\java\com\guoxianbin\service\BrandService.java
+D:\javakecheng\1801D\gxbshop-master\gxbshop-goods-interface\src\main\java\com\guoxianbin\entity\Brand.java
+D:\javakecheng\1801D\gxbshop-master\gxbshop-goods-interface\src\main\java\com\guoxianbin\service\CategoryService.java
+D:\javakecheng\1801D\gxbshop-master\gxbshop-goods-interface\src\main\java\com\guoxianbin\service\SpuService.java
+D:\javakecheng\1801D\gxbshop-master\gxbshop-goods-interface\src\main\java\com\guoxianbin\entity\SkuVo.java
 D:\javakecheng\1801D\gxbshop-master\gxbshop-goods-interface\src\main\java\com\guoxianbin\entity\Spec.java

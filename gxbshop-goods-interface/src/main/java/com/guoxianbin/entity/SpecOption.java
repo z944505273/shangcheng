@@ -3,9 +3,11 @@ package com.guoxianbin.entity;
 import java.io.Serializable;
 
 /**
- * 规格的属性
- * @author 45466
- *
+ * 
+ * @ClassName: SpecOption 
+ * @Description: 规格的属性
+ * @author: 郭宪彬
+ * @date: 2020年6月29日 下午7:39:53
  */
 public class SpecOption  implements Serializable{
 	

@@ -2,6 +2,7 @@ package com.guoxianbin.service.impl;
 
 import java.util.List;
 
+
 import org.apache.dubbo.config.annotation.Service;
 import org.springframework.beans.factory.annotation.Autowired;
 
@@ -12,9 +13,11 @@ import com.guoxianbin.service.CategoryService;
 
 
 /**
- * 分类管理的服务
- * @author 45466
- *
+ * 
+ * @ClassName: CategoryServiceImpl 
+ * @Description: 分类管理的服务
+ * @author: 段文龙
+ * @date: 2020年6月29日 下午7:41:42
  */
 @Service(interfaceClass = CategoryService.class)
 public class CategoryServiceImpl  implements CategoryService {

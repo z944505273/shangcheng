@@ -1,4 +1,7 @@
 com\guoxianbin\controller\MainController.class
 com\guoxianbin\controller\SpecController.class
 com\guoxianbin\controller\BrandController.class
+com\guoxianbin\controller\HgFileUtils.class
 com\guoxianbin\controller\CatController.class
+com\guoxianbin\controller\SpuController.class
+com\guoxianbin\controller\SkuController.class

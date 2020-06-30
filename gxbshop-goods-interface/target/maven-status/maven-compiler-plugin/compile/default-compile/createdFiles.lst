@@ -1,7 +1,14 @@
 com\guoxianbin\service\CategoryService.class
 com\guoxianbin\entity\Brand.class
-com\guoxianbin\entity\Spec.class
-com\guoxianbin\service\SpecService.class
+com\guoxianbin\entity\SkuVo.class
+com\guoxianbin\entity\SpuVo.class
 com\guoxianbin\entity\Category.class
 com\guoxianbin\service\BrandService.class
+com\guoxianbin\entity\Sku.class
+com\guoxianbin\utils\HgLog.class
+com\guoxianbin\entity\Spu.class
+com\guoxianbin\service\SkuService.class
+com\guoxianbin\entity\Spec.class
+com\guoxianbin\service\SpecService.class
+com\guoxianbin\service\SpuService.class
 com\guoxianbin\entity\SpecOption.class

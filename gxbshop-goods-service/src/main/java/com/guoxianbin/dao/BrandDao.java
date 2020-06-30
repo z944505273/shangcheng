@@ -5,6 +5,8 @@ import java.util.List;
 import com.guoxianbin.entity.Brand;
 
 
+
+
 public interface BrandDao {
 
 	List<Brand> queryAll();

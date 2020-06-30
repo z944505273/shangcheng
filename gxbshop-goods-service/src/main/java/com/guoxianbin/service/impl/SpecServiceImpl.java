@@ -2,6 +2,7 @@ package com.guoxianbin.service.impl;
 
 import java.util.List;
 
+
 import org.apache.dubbo.config.annotation.Service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -15,9 +16,11 @@ import com.guoxianbin.entity.SpecOption;
 import com.guoxianbin.service.SpecService;
 
 /**
- *  规格管理的实现类
- * @author 45466
- *
+ * 
+ * @ClassName: SpecServiceImpl 
+ * @Description: 规格管理的实现类
+ * @author: 段文龙
+ * @date: 2020年6月29日 下午7:41:56
  */
 @Service(interfaceClass = SpecService.class)
 public class SpecServiceImpl  implements SpecService{
@@ -84,6 +87,12 @@ public class SpecServiceImpl  implements SpecService{
 	public Spec getById(int id) {
 		// TODO Auto-generated method stub
 		return specDao.findById(id);
+	}
+
+	@Override
+	public List<Spec> listAll() {
+		// TODO Auto-generated method stub
+		return specDao.listAll();
 	}
 
 }

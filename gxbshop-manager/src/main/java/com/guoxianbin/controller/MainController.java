@@ -5,8 +5,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
  * 
- * @author 45466
- *
+ * @ClassName: MainController 
+ * @Description: TODO
+ * @author: 段文龙
+ * @date: 2020年6月29日 下午7:42:21
  */
 
 @Controller
